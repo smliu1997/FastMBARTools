@@ -10,7 +10,7 @@ Users can install FastMBAR easily with the following command
 pip install -U FastMBAR
 ```
 
-When using FastMBAR, users have to prepare the reduced potential energy matrix and the perturbed reduced potential energy matrix. Sometimes it takes time to prepare these matrices, especially if the simulations are performed under additional bias or different temperatures. FastMBARTools aims at preparing these input matrices more efficiently. 
+When using FastMBAR, users have to prepare the reduced potential energy matrix and the perturbed reduced potential energy matrix. Sometimes it takes time to prepare these matrices, especially if the simulations are performed under additional bias or different temperatures. FastMBARTools aims at preparing these input matrices more efficiently, especially for linear bias, harmonic bias, and temperature replica exchange simulations. 
 
 
 
